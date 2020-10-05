@@ -5,6 +5,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "app": {
+      
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -177,7 +178,7 @@
   },
   "cli": {
     "defaultCollection": "@ionic/angular-toolkit",
-    "analytics": "df5ec8d1-15d1-4f57-a159-81ee8d0b2423"
+    "analytics": false
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
